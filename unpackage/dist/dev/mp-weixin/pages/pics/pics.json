@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "社区图片",
+  "usingComponents": {
+    "van-sidebar": "/wxcomponents/vant-weapp/sidebar/index",
+    "van-sidebar-item": "/wxcomponents/vant-weapp/sidebar-item/index"
+  }
+}
